@@ -1,0 +1,140 @@
+/******************Tag Selectors********************/
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514e;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  line-height: 1.5;
+  color: #0278ae;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #0278ae;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #0e8286;
+}
+
+a {
+  color: #0e8286;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: #40514e dotted 6px;
+  border-bottom: 0;
+  width: 4%;
+  margin: 100px auto;
+}
+
+/*******************Class Selectors******************/
+.top {
+  background-color: #abebd7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle {
+  background-color: #eee;
+  padding: 100px 0px 100px 0px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom {
+  background-color: #abebd7;
+  padding: 50px 0px 20px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.profile-photo {
+  margin-top: 25px;
+}
+
+.web-dev {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.web-design {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #0e8286;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0278ae;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.copyright {
+  font-size: 1rem;
+  color: #eaf6f6;
+  padding: 20px 0px;
+}
+/*******************ID Selectors********************/
