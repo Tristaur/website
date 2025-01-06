@@ -1,4 +1,4 @@
-# Protofolio Website
+# Portfolio Website
 
-## This is Simple protfolio website made by using **HTML** and **CSS**.
+## This is Simple portfolio website made by using **HTML** and **CSS**.
 
